@@ -1,0 +1,7 @@
+# .gitignore
+node_modules/
+logs/
+
+.env
+apiclient_key.pem
+apiclient_cert.pem
